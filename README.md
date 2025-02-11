@@ -15,7 +15,7 @@ Interesse em desenvolvimento de jogos e sistemas, mas também posso trabalhar em
         <img 
             alt="" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedin-logo-512x512&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue.svg?logo=linkedin-logo-512x512&logoColor=white"
         />
     </a>
 </p>
