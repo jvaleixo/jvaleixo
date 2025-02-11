@@ -7,19 +7,18 @@ Sou um desenvolvedor com experiência de 2+ anos.
 Trabalhei com desenvolvimento para o Sistema Transcolar, sistema para auxiliar transporte de alunos rurais, que conta com diversos estados do Brasil como cliente, dentre eles SP, RO, PE, GO.
 Desde que comecei a desenvolver tenho experiência em C#, Python, HTML, Javascript, utilização de banco de dados com o PostgreSQL. Sou Técnico em Automação Industrial e Cientista da Computação. 
 
-Interesse em desenvolvimento de jogos e sistemas, mas também posso trabalhar em outras áreas da computação como a área de ciência de dados, por exemplo. Tenho como objetivo ajudar o desenvolvimento de software e soluções para que seja possível levar os projetos dos conceitos para a finalização..
+Interesse em desenvolvimento de jogos e sistemas, mas também posso trabalhar em outras áreas da computação como a área de ciência de dados, por exemplo. Tenho como objetivo ajudar o desenvolvimento de software e soluções para que seja possível levar os projetos dos conceitos para a finalização.
 
+---
 <p align="left">
     <a href="https://www.linkedin.com/in/jvaleixo/">
         <img 
             alt="" 
             title="LinkedIn" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
+            src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=linkedin-logo-512x512&logoColor=white"
         />
     </a>
 </p>
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
