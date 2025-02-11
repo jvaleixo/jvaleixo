@@ -48,11 +48,11 @@ Interesse em desenvolvimento de jogos e sistemas, mas também posso trabalhar em
 />
 <img 
     align="left" 
-    alt="Github" 
-    title="Github"
+    alt="Git" 
+    title="Git"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
